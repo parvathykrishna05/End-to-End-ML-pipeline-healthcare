@@ -1,0 +1,2 @@
+timestamp,race,gender,age,time_in_hospital,num_lab_procedures,num_procedures,num_medications,number_outpatient,number_emergency,number_inpatient,number_diagnoses,change,diabetesMed,prediction,probability_readmitted
+2025-11-30T18:47:46.165661,1,1,5,5,40,1,13,0,0,1,7,1,1,1,0.5725965404148614
